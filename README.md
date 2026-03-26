@@ -17,7 +17,7 @@
 
 ---
 
-##  Student Details
+## 👩🏻‍🎓 Student Details
 
 <div align="left">
 
@@ -34,7 +34,7 @@
 
 ---
 
-##  What Is This Project?
+## 📖 Project Description
 
 This capstone project is a deep-dive **open source audit** of **LibreOffice** — the free, community-driven office suite that was born when a group of developers refused to let Oracle swallow their work whole. The project covers:
 
