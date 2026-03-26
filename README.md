@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48CAE4&height=200&section=header&text=The%20Open%20Source%20Audit&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=LibreOffice%20%E2%80%94%20OSS%20Capstone%20Project&descAlignY=58&descSize=18" width="100%"/>
+
 
 <!-- BADGES -->
 <br/>
