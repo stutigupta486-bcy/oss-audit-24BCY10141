@@ -1,0 +1,10 @@
+PROJECT DESCRIPTION — THE OPEN SOURCE AUDIT
+Student: Stuti Gupta | Reg: 24BCY10141 | VIT Bhopal University
+Software Analyzed: LibreOffice
+---
+
+This capstone project is a detailed open source audit of LibreOffice, a free and open source office productivity suite maintained by The Document Foundation. LibreOffice was chosen because of its compelling origin story — it was forked from OpenOffice.org in 2010 when the community refused to let Oracle's corporate acquisition erase years of shared work — and because it directly challenges one of the world's most widely used proprietary software products.
+
+The submission includes a full research report examining LibreOffice's history, its Mozilla Public License 2.0, its integration with the Linux filesystem, its role in the broader FOSS ecosystem, and a structured comparison with Microsoft Office. The practical component consists of five original bash shell scripts covering system auditing, package inspection, disk and permission checking, log analysis, and interactive manifesto generation. All scripts are hosted in a public GitHub repository (oss-audit-24BCY10141) with a complete README.
+
+This project taught me that open source software is not a compromise — it is a deliberate and principled choice about who should control the tools that society depends on.
