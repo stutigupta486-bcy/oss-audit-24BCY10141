@@ -13,14 +13,13 @@
 
 <br/>
 
-
 </div>
 
 ---
 
 ##  Student Details
 
-<div align="center">
+<div align="left">
 
 |  Field |  Details |
 |:----------|:-----------|
@@ -51,7 +50,7 @@ This capstone project is a deep-dive **open source audit** of **LibreOffice** �
 ## 🔬 Chosen Software — LibreOffice
 
 <div align="center">
-<img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+
 </div>
 
 <br/>
@@ -223,9 +222,9 @@ chmod +x *.sh
 ./05_manifesto_generator.sh
 ```
 
-> 💡 **Tip:** On Windows, run these using **Git Bash** (MINGW64). All five scripts are tested and working on both Linux and Git Bash environments.
+> **Tip:** On Windows, run these using **Git Bash** (MINGW64). All five scripts are tested and working on both Linux and Git Bash environments.
 
-> 💡 **Tip:** For Script 4, if you don't have a syslog, try `/var/log/dpkg.log` — it always has content on Ubuntu/Debian.
+> **Tip:** For Script 4, if you don't have a syslog, try `/var/log/dpkg.log` — it always has content on Ubuntu/Debian.
 
 ---
 
@@ -246,11 +245,17 @@ LibreOffice itself is licensed under the **Mozilla Public License 2.0 (MPL 2.0)*
 
 ---
 
+## About
+
+B.Tech 5th Semester — Open Source Software Capstone (Winter Semester 2026)  
+VIT Bhopal University | Faculty: Adarsh Patel
+
+---
+
 <div align="center">
 
 
 **Made by Stuti Gupta · VIT Bhopal University · March 2026**
 
-![Visitors](https://img.shields.io/badge/Open%20Source-for%20the%20love%20of%20it-FF6B6B?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 </div>
