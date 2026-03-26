@@ -252,7 +252,7 @@ LibreOffice itself is licensed under the **Mozilla Public License 2.0 (MPL 2.0)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer" width="100%"/>
 
-**Made with 💜 by Stuti Gupta · VIT Bhopal University · March 2026**
+**Made by Stuti Gupta · VIT Bhopal University · March 2026**
 
 ![Visitors](https://img.shields.io/badge/Open%20Source-for%20the%20love%20of%20it-FF6B6B?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
