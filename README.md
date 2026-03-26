@@ -13,7 +13,6 @@
 
 <br/>
 
-> *"The tools we rely on every day deserve to be understood — not just used."*
 
 </div>
 
@@ -249,7 +248,6 @@ LibreOffice itself is licensed under the **Mozilla Public License 2.0 (MPL 2.0)*
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer" width="100%"/>
 
 **Made by Stuti Gupta · VIT Bhopal University · March 2026**
 
