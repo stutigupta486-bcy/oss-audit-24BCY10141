@@ -20,11 +20,11 @@
 
 ---
 
-## 👩‍💻 Student Details
+##  Student Details
 
 <div align="center">
 
-| 🏷️ Field | 📋 Details |
+|  Field |  Details |
 |:----------|:-----------|
 | **Name** | Stuti Gupta |
 | **Registration** | 24BCY10141 |
@@ -37,16 +37,16 @@
 
 ---
 
-## 🗂️ What Is This Project?
+##  What Is This Project?
 
 This capstone project is a deep-dive **open source audit** of **LibreOffice** — the free, community-driven office suite that was born when a group of developers refused to let Oracle swallow their work whole. The project covers:
 
-- 📖 The **full origin story** of LibreOffice (OpenOffice → Oracle → community fork)
-- ⚖️ **License analysis** — MPL 2.0 vs GPL vs MIT, what they mean in practice
-- 🐧 How LibreOffice **lives on a Linux system** — directories, permissions, updates
-- 🌍 Its **role in the FOSS ecosystem** — dependencies, governance, global impact
-- ⚔️ A head-to-head **comparison with Microsoft Office**
-- 🛠️ **Five original bash scripts** for Linux system administration
+- The **full origin story** of LibreOffice (OpenOffice → Oracle → community fork)
+- **License analysis** — MPL 2.0 vs GPL vs MIT, what they mean in practice
+- How LibreOffice **lives on a Linux system** — directories, permissions, updates
+- Its **role in the FOSS ecosystem** — dependencies, governance, global impact
+- A head-to-head **comparison with Microsoft Office**
+- **Five original bash scripts** for Linux system administration
 
 ---
 
@@ -62,12 +62,12 @@ LibreOffice is a full-featured, free, and open source office productivity suite 
 
 | App | Purpose |
 |-----|---------|
-| 📝 **Writer** | Word processor |
-| 📊 **Calc** | Spreadsheets |
-| 🎨 **Impress** | Presentations |
-| 🖼️ **Draw** | Vector graphics |
-| 🗃️ **Base** | Databases |
-| ➗ **Math** | Formula editor |
+| **Writer** | Word processor |
+| **Calc** | Spreadsheets |
+| **Impress** | Presentations |
+| **Draw** | Vector graphics |
+| **Base** | Databases |
+| **Math** | Formula editor |
 
 Licensed under **MPL 2.0** · Runs on Linux, Windows & macOS · Trusted by millions worldwide.
 
@@ -76,16 +76,16 @@ Licensed under **MPL 2.0** · Runs on Linux, Windows & macOS · Trusted by milli
 ## 📁 Repository Structure
 
 ```
-📦 oss-audit-24BCY10141/
- ┣ 📜 README.md
- ┣ 📂 scripts/
- ┃ ┣ 🖥️  01_system_identity.sh       ← System snapshot report
- ┃ ┣ 🔍  02_package_inspector.sh      ← Check if LibreOffice is installed
- ┃ ┣ 💾  03_disk_auditor.sh           ← Directory permissions & disk usage
- ┃ ┣ 📋  04_log_analyzer.sh           ← Keyword search through log files
- ┃ ┗ ✍️  05_manifesto_generator.sh    ← Interactive personal manifesto
- ┗ 📂 report/
-    ┗ 📄 OSS_Audit_Report_Stuti_Gupta.pdf
+oss-audit-24BCY10141/
+ ┣ README.md
+ ┣ scripts/
+ ┃ ┣  01_system_identity.sh       ← System snapshot report
+ ┃ ┣  02_package_inspector.sh      ← Check if LibreOffice is installed
+ ┃ ┣  03_disk_auditor.sh           ← Directory permissions & disk usage
+ ┃ ┣  04_log_analyzer.sh           ← Keyword search through log files
+ ┃ ┗  05_manifesto_generator.sh    ← Interactive personal manifesto
+ ┗ report/
+    ┗ OSS_Audit_Report_Stuti_Gupta.pdf
 ```
 
 ---
@@ -93,7 +93,7 @@ Licensed under **MPL 2.0** · Runs on Linux, Windows & macOS · Trusted by milli
 ## 🛠️ Shell Scripts Breakdown
 
 <details>
-<summary><b>🖥️ Script 1 — System Identity Report</b></summary>
+<summary><b> Script 1 — System Identity Report</b></summary>
 <br/>
 
 **File:** `01_system_identity.sh`
@@ -112,7 +112,7 @@ Collects live system information and prints a clean, formatted report — kernel
 </details>
 
 <details>
-<summary><b>🔍 Script 2 — Package Inspector</b></summary>
+<summary><b> Script 2 — Package Inspector</b></summary>
 <br/>
 
 **File:** `02_package_inspector.sh`
@@ -132,7 +132,7 @@ Checks if LibreOffice is installed using `dpkg`. If found, it pulls the version 
 </details>
 
 <details>
-<summary><b>💾 Script 3 — Disk & Permission Auditor</b></summary>
+<summary><b> Script 3 — Disk & Permission Auditor</b></summary>
 <br/>
 
 **File:** `03_disk_auditor.sh`
@@ -152,7 +152,7 @@ Loops through key Linux directories (`/etc`, `/var/log`, `/home`, `/usr/bin`, `/
 </details>
 
 <details>
-<summary><b>📋 Script 4 — Log File Analyzer</b></summary>
+<summary><b> Script 4 — Log File Analyzer</b></summary>
 <br/>
 
 **File:** `04_log_analyzer.sh`
@@ -173,7 +173,7 @@ Accepts a log file and an optional keyword (defaults to `"error"`). Reads line b
 </details>
 
 <details>
-<summary><b>✍️ Script 5 — Open Source Manifesto Generator</b></summary>
+<summary><b> Script 5 — Open Source Manifesto Generator</b></summary>
 <br/>
 
 **File:** `05_manifesto_generator.sh`
