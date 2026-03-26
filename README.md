@@ -1,6 +1,6 @@
 <div align="center">
 
-The Open Source Audit — LibreOffice
+<h1> The Open Source Audit — LibreOffice <h1/>
 
 <!-- BADGES -->
 <br/>
